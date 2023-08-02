@@ -1,19 +1,19 @@
-import './PowerStyles.css'
+import './PowerStyles.css';
 
 const Power = () => {
-    return (
-        <div id='power' className='power'>
-            <div className="container">
-                <div className="top">
-                    <h1>Power</h1>
-                </div>
-                <div className="bottom">
-                    <button className="btn btn-dark">Drive</button>
-                    <button className="btn">Ride</button>
-                </div>
-            </div>
+  return (
+    <div id="power" className="power">
+      <div className="container">
+        <div className="top">
+          <h1>Power</h1>
         </div>
-    )
-}
+        <div className="bottom">
+          <button className="btn btn-dark">Drive</button>
+          <button className="btn">Ride</button>
+        </div>
+      </div>
+    </div>
+  );
+};
 
-export default Power
+export default Power;
