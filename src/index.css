@@ -58,6 +58,7 @@ h3 {
 .btn:hover {
   background: rgba(255, 255, 255, .4);
 }
+
 .btn-dark:hover {
   background: rgba(0, 0, 0, .8);
 }
