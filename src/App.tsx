@@ -6,8 +6,6 @@ import Options from "./components/options/Options.tsx";
 import Contact from "./components/contact/Contact.tsx";
 
 function App() {
-
-
     return (
         <>
             <Navbar/>
